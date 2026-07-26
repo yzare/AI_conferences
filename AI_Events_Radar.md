@@ -1,6 +1,6 @@
 # AI Events Radar
 
-A weekly-curated list of notable upcoming AI conferences, summits, and events, filtered for strategic relevance to AI strategy/digital solutions work in the agriculture and animal genetics industry. Categories tracked: Strategy & Governance, Agentic AI, Enterprise AI, Science AI, Agriculture AI, Genomic/Bio AI.
+A weekly-curated list of notable upcoming AI conferences, summits, and events, filtered for strategic relevance to AI strategy/digital solutions work in the agriculture and animal genetics industry. Categories tracked: Strategy & Governance, Agentic AI, Enterprise AI, Science AI, Agriculture AI, Genomic/Bio AI, Vendor Conferences, C-Suite & Executive Forums.
 
 ## Week of 2026-07-26
 
@@ -53,3 +53,39 @@ A weekly-curated list of notable upcoming AI conferences, summits, and events, f
 - **PAG 34 — Plant & Animal Genome Conference** — January 8–12, 2027, San Diego, California, USA. [Genomic/Bio AI, Agriculture AI]
   Why it matters: Billed as the world's largest agricultural genomics meeting, with 200+ scientific sessions and a 100+ company genomics expo; increasingly features AI/ML-driven genomics and breeding tools — highly relevant to animal genetics strategy.
   Source: https://intlpag.org/PAG/
+
+### Vendor Conferences
+
+- **OpenAI DevDay 2026** — September 29, 2026, San Francisco (Fort Mason), USA. [Vendor Conferences]
+  Why it matters: OpenAI's flagship annual developer event, where major API, model, and platform announcements land — directly relevant to enterprise AI platform strategy and vendor roadmap tracking.
+  Source: https://openai.com/index/devday-2026/
+
+- **Salesforce Dreamforce 2026** — September 15–17, 2026, San Francisco, USA. [Vendor Conferences]
+  Why it matters: One of the largest enterprise software conferences globally (1,600+ sessions), with Salesforce's Agentforce/AI roadmap as a central theme and keynotes from CEO Marc Benioff — a bellwether for enterprise AI agent adoption.
+  Source: https://www.salesforce.com/dreamforce/
+
+- **Microsoft Ignite 2026** — November 17–20, 2026, San Francisco (Moscone Center), USA. [Vendor Conferences]
+  Why it matters: Microsoft's flagship IT/enterprise conference for Azure, Copilot, and AI platform announcements, targeting IT professionals, developers, and enterprise leaders.
+  Source: https://ignite.microsoft.com/
+
+- **AWS re:Invent 2026** — November 30–December 4, 2026, Las Vegas, USA. [Vendor Conferences]
+  Why it matters: AWS's flagship cloud/AI conference, drawing 50,000+ cloud professionals across 2,000+ sessions — a key venue for AWS Bedrock and enterprise AI infrastructure announcements.
+  Source: https://reinvent.awsevents.com/
+
+- **Anthropic — no upcoming conference currently announced.** [Vendor Conferences]
+  Why it matters: Anthropic's developer conference, Code with Claude, last ran May–June 2026 (San Francisco, London, Tokyo); no next edition has been announced yet. Flagging so it can be added as soon as dates are confirmed.
+  Source: https://www.anthropic.com/events/code-with-claude
+
+### C-Suite & Executive Forums
+
+- **Gartner IT Symposium/Xpo 2026** — October 19–22, 2026, Orlando, Florida, USA (additional regional editions in Australia, Japan, Spain, and India through November). [C-Suite & Executive Forums]
+  Why it matters: The world's largest gathering of CIOs and senior IT executives (7,000+ attendees), with this year's "Ignite Intelligence" theme centered on AI-driven business transformation — a key barometer of enterprise/CIO AI priorities.
+  Source: https://www.gartner.com/en/conferences/na/symposium-us
+
+- **Fortune Brainstorm AI 2026** — December 7–8, 2026, San Francisco, USA. [C-Suite & Executive Forums]
+  Why it matters: Purpose-built for C-suite leaders (CEOs, CIOs, CTOs, CDOs) and heads of AI/data strategy, making it one of the most senior-audience AI strategy gatherings on the calendar.
+  Source: https://conferences.fortune.com/event/brainstorm-ai-2026/
+
+- **World Economic Forum Annual Meeting 2027 (Davos)** — January 18–22, 2027, Davos, Switzerland. [C-Suite & Executive Forums, Strategy & Governance]
+  Why it matters: The premier global gathering of heads of state, CEOs, and institutional leaders, with AI governance and economic transformation as a sustained major theme — high signal for global policy and enterprise-strategy direction.
+  Source: https://www.weforum.org/meetings/world-economic-forum-annual-meeting-2027/
