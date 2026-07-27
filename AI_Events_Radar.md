@@ -2,6 +2,34 @@
 
 A weekly-curated list of notable upcoming AI conferences, summits, and events, filtered for strategic relevance to AI strategy/digital solutions work in the agriculture and animal genetics industry. Categories tracked: Strategy & Governance, Agentic AI, Enterprise AI, Science AI, Agriculture AI, Genomic/Bio AI, Vendor Conferences, C-Suite & Executive Forums.
 
+## Week of 2026-07-27
+
+### Updates to previously listed events
+
+- **Animal AgTech Innovation Summit Amsterdam 2026 — now PAUSED.** Organizer Rethink Events has paused the Amsterdam edition (previously slated for October 2026) amid a strategic review of its events portfolio. Entry updated in place below rather than removed, so the change is visible. Source: https://animalagtecheurope.com/frequently-asked-questions
+
+### Agentic AI
+
+- **AGNTCon + MCPCon North America 2026** — October 22–23, 2026, San Jose, California, USA. [Agentic AI]
+  Why it matters: Flagship annual conference for the open agentic AI ecosystem, run by the newly formed Agentic AI Foundation under the Linux Foundation; covers the Model Context Protocol (MCP), the Goose agent framework, and enterprise agentic-AI governance for both open-source contributors and enterprise adopters.
+  Source: https://www.linuxfoundation.org/press/agentic-ai-foundation-announces-global-2026-events-program-anchored-by-agntcon-mcpcon-north-america-and-europe
+
+### Enterprise AI
+
+- **HumanX 2027** — March 7–10, 2027, Mandalay Bay, Las Vegas, USA. [Enterprise AI]
+  Why it matters: Third edition of a fast-growing, executive-heavy AI conference (9,000+ attendees, 75%+ VP-level or above at prior editions), focused on real-world enterprise AI deployment with speakers drawn from OpenAI, Anthropic, Google, Microsoft, and AWS.
+  Source: https://www.businesswire.com/news/home/20260408616038/en/HumanX-Brings-Its-Global-AI-Ecosystem-Back-to-Las-Vegas-in-2027
+
+### Agriculture AI
+
+- **World Agri-Tech Innovation Summit London 2026** — September 22–23, 2026, London (InterContinental — The O2), UK. [Agriculture AI]
+  Why it matters: Europe's premier agri-food innovation summit (800–900 senior decision-makers from agribusinesses, food brands, and investors), with AI adoption, farm robotics, and data/automation as core agenda themes — directly relevant to digital-agriculture strategy.
+  Source: https://www.worldagritechinnovation.com/
+
+- **World Agri-Tech Innovation Summit San Francisco 2027** — March 9–10, 2027, San Francisco, USA. [Agriculture AI]
+  Why it matters: Flagship US edition of the long-running World Agri-Tech series, drawing 1,500+ decision-makers across agribusiness, food, technology, and investment for agtech and digital-farming strategy discussions.
+  Source: https://worldagritechusa.com/
+
 ## Week of 2026-07-26
 
 ### Strategy & Governance
@@ -40,9 +68,9 @@ A weekly-curated list of notable upcoming AI conferences, summits, and events, f
 
 ### Agriculture AI
 
-- **Animal AgTech Innovation Summit Amsterdam 2026** — October 16–17, 2026 (some listings show Oct 13–14; confirm exact dates on the official site before finalizing travel), Amsterdam, Netherlands. [Agriculture AI, Genomic/Bio AI]
-  Why it matters: The premier C-suite gathering (250+ senior leaders) for livestock production technology, backed by EAAP (European Federation of Animal Science), covering AI-powered livestock management and genetic advancements — directly relevant to animal genetics strategy.
-  Source: https://animalagtecheurope.com/
+- **Animal AgTech Innovation Summit Amsterdam 2026 — PAUSED (update 2026-07-27).** Previously listed for October 2026, Amsterdam, Netherlands. [Agriculture AI, Genomic/Bio AI]
+  Why it matters: Organizer Rethink Events has paused the Amsterdam edition following a strategic review of its global events portfolio, while it reworks how it supports this audience; no 2026 edition will take place. Leaving this note so the summit isn't mistakenly re-added later, and to flag that its livestock/animal-genetics content has no direct 2026 successor yet.
+  Source: https://animalagtecheurope.com/frequently-asked-questions
 
 ### Genomic/Bio AI
 
