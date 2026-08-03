@@ -2,6 +2,42 @@
 
 A weekly-curated list of notable upcoming AI conferences, summits, and events, filtered for strategic relevance to AI strategy/digital solutions work in the agriculture and animal genetics industry. Categories tracked: Strategy & Governance, Agentic AI, Enterprise AI, Science AI, Agriculture AI, Genomic/Bio AI, Vendor Conferences, C-Suite & Executive Forums.
 
+## Week of 2026-08-03
+
+### Strategy & Governance
+
+- **Geneva AI Summit 2027** — June 21–22, 2027, Geneva (Palexpo), Switzerland. [Strategy & Governance]
+  Why it matters: The fifth in the government-led global AI summit series (after Bletchley Park 2023, Seoul 2024, Paris 2025, and New Delhi 2026), co-organized by the Swiss federal government; brings together heads of state, international organizations, industry, and civil society to shape binding and voluntary AI governance norms.
+  Source: https://genevaaisummit.swiss/
+
+- **UN Global Dialogue on AI Governance — 2nd Session** — May 3–4, 2027, New York, USA. [Strategy & Governance]
+  Why it matters: A newly established, recurring annual UN mechanism (mandated by General Assembly resolution A/RES/79/325) for governments and stakeholders worldwide to negotiate AI governance norms; the inaugural session was held in Geneva in July 2026, and this second session runs alongside the UN's Science, Technology and Innovation Forum.
+  Source: https://www.un.org/global-dialogue-ai-governance/en/faq
+
+### Enterprise AI
+
+- **Ai4 2026** — August 4–6, 2026, Las Vegas (The Venetian), USA. [Enterprise AI]
+  Why it matters: Billed as the largest applied-AI conference in the US, with 12,000+ attendees, 1,000+ speakers, and 400+ exhibitors expected across 20 industry tracks; confirmed participants include Google, Amazon, Microsoft, NVIDIA, Walmart, Pfizer, and the US Air Force — a strong bellwether for cross-industry enterprise AI adoption.
+  Source: https://ai4.io/
+
+### Agentic AI
+
+- **The AI Conference 2026** — September 29–October 1, 2026, San Francisco (Pier 48), USA. [Agentic AI, Enterprise AI]
+  Why it matters: Established annual industry gathering (5,500+ attendees, 120+ speakers across 5 tracks) covering agentic AI, LLMs, AGI, and applied-AI infrastructure — a useful complement to AGNTCon/MCPCon for tracking the broader agentic-AI ecosystem.
+  Source: https://aiconference.com/
+
+### Science AI
+
+- **AI4Sci Korea 2026** — September 27–October 1, 2026, Seoul, South Korea. [Science AI]
+  Why it matters: Hosted by South Korea's National Research Council of Science & Technology and organized by the newly formed National AI for Science Research Center (NAIS) — a government-backed flagship event on AI-driven scientific discovery across biology, chemistry, and materials science.
+  Source: https://ai4scikorea.org/
+
+### Agriculture AI / Genomic-Bio AI
+
+- **77th EAAP Annual Meeting** — September 7–11, 2026, Hamburg, Germany. [Agriculture AI, Genomic/Bio AI]
+  Why it matters: Annual flagship conference of the European Federation of Animal Science (EAAP), drawing 1,600–2,000 participants from 60+ countries, with dedicated sessions on genomic selection and AI-driven genetic improvement of livestock — directly relevant to animal genetics strategy.
+  Source: https://eaap2026.org/
+
 ## Week of 2026-07-27
 
 ### Updates to previously listed events
