@@ -2,6 +2,28 @@
 
 A weekly-curated list of notable upcoming AI conferences, summits, and events, filtered for strategic relevance to AI strategy/digital solutions work in the agriculture and animal genetics industry. Categories tracked: Strategy & Governance, Agentic AI, Enterprise AI, Science AI, Agriculture AI, Genomic/Bio AI, Vendor Conferences, C-Suite & Executive Forums.
 
+## Week of 2026-08-10
+
+### Enterprise AI / Agentic AI
+
+- **World Summit AI Amsterdam 2026** — October 7–8, 2026, Amsterdam (Taets Art & Event Park), Netherlands. [Enterprise AI, Agentic AI]
+  Why it matters: 10th-anniversary edition of one of Europe's longest-running flagship AI summits, expecting 10,000+ attendees from 130+ countries and 300+ speakers, anchoring the broader "World AI Week" with 100+ fringe events across the city — a strong barometer of enterprise AI adoption and governance trends.
+  Source: https://worldsummit.ai/
+
+- **Agent Conference 2027** — May 17–18, 2027, New York (New York Hilton Midtown), USA. [Agentic AI, Enterprise AI]
+  Why it matters: New large-scale agentic-AI conference for enterprises, projecting 4,000+ executives/founders, 100+ exhibitors, and 100+ speakers across tracks on agentic enterprises, engineering, and industries; first edition, worth tracking as the agentic-AI event landscape consolidates.
+  Source: https://www.agentconference.com/
+
+- **SuperAI Singapore 2027** — September 8–9, 2027, Singapore (Marina Bay Sands). [Enterprise AI, Agentic AI]
+  Why it matters: Billed as Asia's largest AI event; the 2026 edition sold out with 10,000+ attendees, and the 2027 edition returns to Marina Bay Sands as a hub connecting global AI industry, investors, and policymakers — high relevance for tracking enterprise AI adoption in Asia-Pacific.
+  Source: https://www.superai.com/
+
+### Agriculture AI / Genomic-Bio AI
+
+- **Animal AgTech Innovation Summit — Fort Worth 2027** — April 6–7, 2027, Fort Worth, Texas (Hilton Fort Worth), USA. [Agriculture AI, Genomic/Bio AI]
+  Why it matters: North American flagship livestock-innovation summit run by Rethink Events (William Reed Group, also organizer of World Agri-Tech), bringing together 450 senior executives from across livestock, dairy, animal health, feed, and technology — directly relevant to animal genetics strategy; complements the now-paused Amsterdam edition noted in prior weeks.
+  Source: https://animalagtech.com/
+
 ## Week of 2026-08-03
 
 ### Strategy & Governance
