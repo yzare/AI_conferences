@@ -2,6 +2,35 @@
 
 A weekly-curated list of notable upcoming AI conferences, summits, and events, filtered for strategic relevance to AI strategy/digital solutions work in the agriculture and animal genetics industry. Categories tracked: Strategy & Governance, Agentic AI, Enterprise AI, Science AI, Agriculture AI, Genomic/Bio AI, Vendor Conferences, C-Suite & Executive Forums.
 
+## Week of 2026-08-17
+
+### Updates to previously listed events
+
+- **Animal AgTech Innovation Summit Amsterdam 2026 — signs it may be back on (unconfirmed).** Multiple current pages on the organizer's own site (programme page, partnership brochure, a "12 Pioneers" preview article) describe an active October 2026 edition at the Leonardo Royal Hotel Amsterdam, with reported dates varying between October 13–14 and October 16–17, 2026 across sources — contradicting the "paused" status noted here on 2026-07-27 and 2026-08-10. Direct verification of the organizer's FAQ page was blocked by network restrictions this run, so this is flagged as an unconfirmed signal rather than a confirmed un-pause; will attempt to re-verify next week before updating the entry as resolved.
+  Source: https://animalagtecheurope.com/programme-animal-agtech-europe
+
+### Agentic AI
+
+- **AGNTCon + MCPCon Europe 2026** — September 17–18, 2026, Amsterdam (RAI Amsterdam), Netherlands. [Agentic AI]
+  Why it matters: European edition of the flagship open agentic-AI ecosystem conference, co-organized by the Linux Foundation and the Agentic AI Foundation; consolidates the former separate AGNTCon and MCPCon events, covering the Model Context Protocol, agent interoperability, and enterprise agentic-AI deployment — the European counterpart to the North America edition already tracked here.
+  Source: https://events.linuxfoundation.org/agntcon-mcpcon-europe/
+
+- **NVIDIA GTC 2027** — March 14–18, 2027, San Jose (San Jose McEnery Convention Center), California, USA. [Agentic AI, Enterprise AI]
+  Why it matters: NVIDIA's flagship AI conference, typically headlined by CEO Jensen Huang, drawing thousands of developers, researchers, and enterprise leaders across sessions on agentic AI, AI infrastructure, and accelerated computing — a leading indicator of enterprise AI hardware/platform direction.
+  Source: https://www.nvidia.com/gtc/
+
+### Genomic/Bio AI
+
+- **ISMB/ECCB 2027 (35th Intelligent Systems for Molecular Biology, joint with 26th ECCB)** — July 18–22, 2027, Copenhagen (Bella Center), Denmark. [Genomic/Bio AI, Science AI]
+  Why it matters: Flagship annual meeting of the International Society for Computational Biology (ISCB), billed as the world's largest bioinformatics and computational biology conference; this edition joins forces with ECCB, broadening coverage of genomics and AI-driven molecular biology methods.
+  Source: https://www.iscb.org/ismbeccb2027/home
+
+### Agriculture AI
+
+- **AGRITECHNICA 2027** — November 14–20, 2027, Hannover, Germany. [Agriculture AI]
+  Why it matters: The world's leading trade fair for agricultural machinery and technology (organized by DLG/Deutsche Messe), expecting roughly 458,000 visitors; the 2027 theme "Touch Smart Efficiency" centers on AI, robotics, and digital farming, anchored by a dedicated Digital Farm Center — a major bellwether for AI adoption in production agriculture.
+  Source: https://www.agritechnica.com/
+
 ## Week of 2026-08-10
 
 ### Enterprise AI / Agentic AI
