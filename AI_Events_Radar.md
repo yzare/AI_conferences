@@ -2,6 +2,46 @@
 
 A weekly-curated list of notable upcoming AI conferences, summits, and events, filtered for strategic relevance to AI strategy/digital solutions work in the agriculture and animal genetics industry. Categories tracked: Strategy & Governance, Agentic AI, Enterprise AI, Science AI, Agriculture AI, Genomic/Bio AI, Vendor Conferences, C-Suite & Executive Forums.
 
+## Week of 2026-08-24
+
+### Strategy & Governance
+
+- **AI for Good Global Summit 2027** — Week of July 21–25, 2027 (exact days TBD), Geneva (Palexpo), Switzerland. [Strategy & Governance]
+  Why it matters: The ITU's (a UN specialized agency) flagship, long-running AI platform summit (running since 2017), organized with 50+ UN agencies and the Swiss government, drawing thousands of attendees including heads of state and major tech leaders; distinct from the separately tracked Geneva AI Summit 2027 (June 21–22, 2027), which is the Bletchley/Seoul/Paris/India-lineage government summit.
+  Source: https://aiforgood.itu.int/summit27/
+
+### Agentic AI
+
+- **Interrupt 2026 (The Agent Conference, by LangChain)** — September 24, 2026, New York (Halo), USA; and October 13, 2026, London (Outernet), UK. [Agentic AI, Enterprise AI]
+  Why it matters: LangChain is one of the most prominent agent-framework companies in the industry; Interrupt is its flagship agent-builder conference, newly expanded this year to NYC and London stops, with speakers from organizations like JPMorgan discussing production agent deployments.
+  Source: https://interrupt.langchain.com/london
+
+### Enterprise AI
+
+- **Momentum AI New York 2027** — April 27–28, 2027, New York (Convene, 117 West 46th Street), USA. [Enterprise AI]
+  Why it matters: Run by Reuters Events, a C-suite-focused enterprise AI leadership summit (CIOs/COOs/CTOs) with confirmed speakers from McKinsey's "Rewired" team on scaling AI in the agentic era.
+  Source: https://events.reutersevents.com/momentum/nyc
+
+### Science AI
+
+- **AI4Science Week 2026 (29th Discovery Science conference + 2nd AI4Sci conference)** — October 5–9, 2026, Mainz, Germany. [Science AI]
+  Why it matters: Co-locates the long-running, Springer-published Discovery Science academic conference series (since 1998) with the AI4Sci conference, covering AI4Physics, AI4Chemistry & Materials, AI4LifeSciences, and AI4Humanities & Social Sciences tracks — a credible multi-track academic gathering on AI for scientific discovery.
+  Source: https://ai4sciweek.org/
+
+### Agriculture AI / Genomic-Bio AI
+
+- **Genomics India Conference (GIC) 2026 — 6th edition** — September 2–3, 2026 (pre-conference workshops September 1), Bengaluru, India. [Genomic/Bio AI, Agriculture AI]
+  Why it matters: Billed as India's largest genomics gathering, jointly organized by the Indian Institute of Science (IISc), National Centre for Biological Sciences (NCBS), the Tata Institute for Genetics and Society (TIGS), and the University of Agricultural Sciences, Bengaluru; expects 1,000+ participants with dedicated "AI & Data Science in Genomics" and "Agricultural Genomics" tracks.
+  Source: https://www.biospectrumindia.com/news/16/27826/indias-largest-genomics-conference-gic-returns-for-its-sixth-edition-in-sept-2026.html
+
+- **AIC Conference 2027 (Agri-Food Innovation Council)** — May 17–18, 2027, Ottawa (Sheraton Ottawa Hotel), Canada. [Agriculture AI]
+  Why it matters: Flagship annual conference of Canada's national Agri-Food Innovation Council, themed "Nation Building 2.0 – AI-Powered Agri-Food: Transforming Crop, Animal & AgTech Systems" — explicitly centered on AI's role across crop, animal, and agtech systems for a national policy/industry audience.
+  Source: https://www.aic.ca/2027-conference/
+
+- **4th U.S. Precision Livestock Farming Conference** — May 24–27, 2027, University of Georgia, Athens, Georgia, USA. [Agriculture AI]
+  Why it matters: Biennial flagship U.S. scientific conference on precision livestock technology (sensors, data, AI-driven monitoring), run jointly by the University of Georgia and Georgia Tech — directly relevant to animal genetics/livestock AI strategy.
+  Source: https://iipa.uga.edu/?p=3003
+
 ## Week of 2026-08-17
 
 ### Updates to previously listed events
