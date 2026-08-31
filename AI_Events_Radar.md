@@ -2,6 +2,25 @@
 
 A weekly-curated list of notable upcoming AI conferences, summits, and events, filtered for strategic relevance to AI strategy/digital solutions work in the agriculture and animal genetics industry. Categories tracked: Strategy & Governance, Agentic AI, Enterprise AI, Science AI, Agriculture AI, Genomic/Bio AI, Vendor Conferences, C-Suite & Executive Forums.
 
+## Week of 2026-08-31
+
+### Updates to previously listed events
+
+- **Animal AgTech Innovation Summit Amsterdam 2026 — now confirmed running (resolves the 2026-08-17/2026-08-24 "unconfirmed" flag).** Multiple current organizer pages (full programme, full speaker list, individual sponsor pages) plus a September 2025 EFFAB press release titled "The Animal AgTech Innovation Summit returns to Amsterdam" together confirm the event is going ahead at the Leonardo Royal Hotel Amsterdam, superseding the "paused" status noted on 2026-07-27/2026-08-10. The organizer's own pages still disagree on exact dates — most (including the partnership brochure) cite October 13–14, 2026, while other current pages cite October 16–17, 2026 — so treat it as "October 2026, Amsterdam" pending final date confirmation next week.
+  Source: https://animalagtecheurope.com/programme-animal-agtech-europe
+
+### Enterprise AI
+
+- **Enterprise AI Summit — Charlotte 2026** — October 7–8, 2026, Charlotte (Carolina Theatre), North Carolina, USA. [Enterprise AI]
+  Why it matters: Run by IT Revolution, whose founder Gene Kim (author of "The Phoenix Project") built the well-regarded Enterprise Technology Leadership/DevOps Enterprise Summit series; this edition's confirmed speakers include OpenAI's solutions-engineering lead, O'Reilly Media founder Tim O'Reilly, and John Deere's global IT strategy director, discussing agentic coding and AI-native operating models — notable ag-sector (John Deere) representation among the speakers.
+  Source: https://events.itrevolution.com/2026-charlotte/
+
+### Agriculture AI / Genomic-Bio AI
+
+- **AGBT-Ag 2027 (Advances in Genome Biology and Technology — Agricultural Meeting)** — April 4–7, 2027, Miami (InterContinental Miami), Florida, USA. [Agriculture AI, Genomic/Bio AI]
+  Why it matters: The agricultural-genomics arm of AGBT, one of genomics' most respected meeting series (run alongside its long-running General Meeting); recent editions centered on machine-learning-driven breeding (e.g., ML combined with directed evolution to accelerate breeding of stress-resistant crop varieties) and FAIR data standardization across the AgBioData consortium — directly relevant to AI-driven genomic selection and breeding strategy in agriculture and animal genetics.
+  Source: https://www.agbt.org/home/home/agricultural-meeting-overview/
+
 ## Week of 2026-08-24
 
 ### Strategy & Governance
