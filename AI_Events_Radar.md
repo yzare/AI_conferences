@@ -2,6 +2,25 @@
 
 A weekly-curated list of notable upcoming AI conferences, summits, and events, filtered for strategic relevance to AI strategy/digital solutions work in the agriculture and animal genetics industry. Categories tracked: Strategy & Governance, Agentic AI, Enterprise AI, Science AI, Agriculture AI, Genomic/Bio AI, Vendor Conferences, C-Suite & Executive Forums.
 
+## Week of 2026-09-07
+
+### Updates to previously listed events
+
+- **Animal AgTech Innovation Summit Amsterdam 2026 — status downgraded back to unconfirmed/disputed pending direct verification.** Last week's entry marked this event as "confirmed running" based on live-looking programme, full speaker list, and sponsor pages. This week's search turned up conflicting signals: the organizer's own FAQ and event-overview pages (rethinkevents.com/events/animal-agtech/, animalagtecheurope.com/frequently-asked-questions) again surfaced "paused" language — "Following a strategic review of Rethink Events' global events portfolio... Animal AgTech Amsterdam has been paused." Complicating the picture further, one of the same detailed speaker pages cited as evidence of an active 2026 edition is titled "...Amsterdam — October 16-17, **2025**," suggesting some of the "current" programme content indexed by search engines may actually be leftover prior-year material rather than confirmation of an active 2026 edition. Direct fetch of animalagtecheurope.com and rethinkevents.com was blocked by this environment's network egress policy both this week and last, so the conflict cannot be resolved by direct page access from here. Given the genuinely conflicting evidence, this entry is downgraded from "confirmed" back to "unconfirmed/disputed" — recommend your colleague verify directly with animalagtecheurope.com or Rethink Events before making any plans around this event.
+  Sources: https://rethinkevents.com/events/animal-agtech/ ; https://animalagtecheurope.com/frequently-asked-questions
+
+### Strategy & Governance
+
+- **Government & AI Summit 2026** — October 14–15, 2026, Washington, D.C. (JW Marriott), USA. [Strategy & Governance, Enterprise AI]
+  Why it matters: Run by GovExec (Government Executive Media Group), the leading media/events organization covering U.S. federal government technology; convenes federal agency leaders and technology executives on moving AI from pilot to production and governing agentic AI in government workflows — notable for tracking AI governance and public-sector enterprise AI adoption trends.
+  Source: https://events.govexec.com/government-ai-summit-2026/home/
+
+- **Data for Policy 2026 (10th Annual Conference)** — September 8–10, 2026, Universitat Pompeu Fabra, Barcelona, Spain. [Strategy & Governance]
+  Why it matters: Milestone 10th edition of an established academic/policy conference series, chaired by leaders from the Alan Turing Institute (UK's national AI institute), University of Cambridge, and NYU GovLab, with an integrated peer-review track through Cambridge University Press's Data & Policy journal; this year's theme, "Governance of/with AI," centers directly on AI governance and tech sovereignty.
+  Source: https://dataforpolicy.org/data-for-policy-2026/
+
+No further qualifying new events were found this week in Agentic AI, Enterprise AI (beyond the summit above), Science AI, Agriculture AI, or Genomic/Bio AI.
+
 ## Week of 2026-08-31
 
 ### Updates to previously listed events
