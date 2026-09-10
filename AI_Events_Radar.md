@@ -2,6 +2,40 @@
 
 A weekly-curated list of notable upcoming AI conferences, summits, and events, filtered for strategic relevance to AI strategy/digital solutions work in the agriculture and animal genetics industry. Categories tracked: Strategy & Governance, Agentic AI, Enterprise AI, Science AI, Agriculture AI, Genomic/Bio AI, Vendor Conferences, C-Suite & Executive Forums.
 
+## Week of 2026-09-10
+
+### Updates to previously listed events
+
+- **Animal AgTech Innovation Summit Amsterdam 2026 — remains unresolved/disputed; fresh evidence this week tilts back toward "paused."** A direct search of the organizer's own FAQ page (animalagtecheurope.com/frequently-asked-questions) again returned language stating the Amsterdam edition "has been paused following a strategic review of the global events portfolio," while a separate Rethink Events partnership-brochure page carries the same "paused" note. This sits alongside the still-live-looking programme/speaker/sponsor pages on the same domain noted in prior weeks. Direct WebFetch verification of animalagtecheurope.com was again blocked by this environment's network egress policy, so the conflict could not be resolved by fetching the pages directly — this is based on search-result snippets only. Given the FAQ page's own explicit "paused" language surfacing again, recommend treating this event as **not confirmed** until your colleague verifies directly with the organizer, rather than planning around an October 2026 date.
+  Sources: https://animalagtecheurope.com/frequently-asked-questions ; https://go.rethinkevents.com/partnership-brochure-amsterdam-2026
+
+- **Animal AgTech Innovation Summit — Fort Worth 2027 — date changed.** Previously logged here as April 6-7, 2027. The organizer's own current homepage (animalagtech.com) now lists the event as **March 30-31, 2027**, Hilton Fort Worth, Texas, while at least one other page on the same site still shows the old April date — noting the discrepancy here rather than treating it as fully settled, consistent with how Amsterdam's date conflicts have been flagged in past entries.
+  Source: https://animalagtech.com/
+
+### Enterprise AI / Strategy & Governance
+
+- **Data Innovation Summit 2027** — May 18-20, 2027, Kistamässan, Stockholm, Sweden. [Enterprise AI, Strategy & Governance]
+  Why it matters: Billed as the Nordics' largest applied data, analytics, and AI event (organized by Hyperight AB since 2016), expecting ~3,500 attendees, 300+ speakers across 15 stages, and a dedicated AI Strategy & Governance stage for Chief AI Officers and compliance leaders — useful for tracking Nordic/European enterprise AI governance trends.
+  Source: https://datainnovationsummit.com/region/nordics/
+
+### Agriculture AI
+
+- **Digital Farming Conference 2027** — March 2, 2027, Embassy of the Kingdom of the Netherlands, Berlin, Germany. [Agriculture AI]
+  Why it matters: Organized by Bitkom, Germany's leading digital-industry trade association, convening politics, science, and civil society on the digital transformation of agriculture; explicitly covers AI-supported systems for plant-disease detection, needs-based irrigation, and animal-health monitoring — directly relevant to digital-farming and animal-health AI strategy.
+  Source: https://www.bitkom.org/Digital-Farming-Conference-2027
+
+- **Agri-WEF 2027 (International Conference on Next-Generation Precision Agriculture for Climate-Resilient Water-Energy-Food Systems)** — February 2-4, 2027, IIT Kharagpur, India. [Agriculture AI]
+  Why it matters: Hosted by IIT Kharagpur, one of India's premier technical institutes, as part of its Platinum Jubilee celebrations; includes a dedicated "AI-ML Agriculture Conference" track on IoT/AI/ML-enabled precision farming, smart farm machinery, and climate-resilient agri-food systems — a credible academic gathering on AI in production agriculture.
+  Source: https://agriwefiitkgp.in/
+
+### Genomic/Bio AI
+
+- **Gordon Research Conference: Quantitative Genetics and Genomics 2027** — March 2027 (exact dates unconfirmed — sources conflict; held in conjunction with a preceding Gordon Research Seminar), Ventura, California, USA. [Genomic/Bio AI]
+  Why it matters: Gordon Research Conferences are among the most respected small-format scientific meeting series in the life sciences; this edition's stated theme directly asks why ML/AI have had limited use in quantitative genetics and what opportunities they offer for genome/phenotype simulation and modeling polygenic traits — squarely relevant to AI-driven genomic selection in animal genetics.
+  Source: https://www.grc.org/quantitative-genetics-and-genomics-conference/2027/
+
+No further qualifying new events were found this week in Agentic AI or Science AI.
+
 ## Week of 2026-09-07
 
 ### Updates to previously listed events
