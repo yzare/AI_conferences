@@ -2,6 +2,31 @@
 
 A weekly-curated list of notable upcoming AI conferences, summits, and events, filtered for strategic relevance to AI strategy/digital solutions work in the agriculture and animal genetics industry. Categories tracked: Strategy & Governance, Agentic AI, Enterprise AI, Science AI, Agriculture AI, Genomic/Bio AI, Vendor Conferences, C-Suite & Executive Forums.
 
+## Week of 2026-09-14
+
+### Agriculture AI / Genomic-Bio AI
+
+- **12th European Conference on Precision Livestock Farming (ECPLF 2026)** — September 14–17, 2026, Valencia, Spain. [Agriculture AI, Genomic/Bio AI]
+  Why it matters: Flagship biennial European conference on precision livestock farming, co-organized by the European Association for Precision Livestock Farming (EA-PLF) together with three leading Spanish universities (Universitat Politècnica de València, Universidad de Córdoba, Universitat Autònoma de Barcelona) and the Spanish REDIGA research network; this edition's theme, "Improving animal life," centers on AI/sensor-based animal monitoring systems — directly relevant to animal-health and livestock-genetics AI strategy.
+  Source: https://www.ecplf2026.com/
+
+- **World Agri-Tech South America Summit 2027** — June 29–30, 2027, São Paulo, Brazil. [Agriculture AI]
+  Why it matters: Newly announced 2027 edition of the South American arm of the World Agri-Tech series (Rethink Events/William Reed Group, the same organizer as the London and San Francisco editions already tracked here), convening senior decision-makers across Latin America's agriculture and food value chain — relevant for tracking AI/digital-agriculture adoption trends in a major agricultural export region.
+  Source: https://www.worldagritechsouthamerica.com/
+
+### Genomic/Bio AI
+
+- **Novo Nordisk Foundation Science Cluster Conference: Genomic Mechanisms of Disease 2027** — March 8–11, 2027, Favrholm, Hillerød, Denmark. [Genomic/Bio AI]
+  Why it matters: Organized in partnership with the Broad Institute (one of the world's leading genomics research institutes) via its Novo Nordisk Foundation Center for Genomic Mechanisms of Disease; covers AI/ML & computational modeling as one of its core themes alongside statistical/population genomics. Note: this is a smaller, application/invitation-based academic conference (PhD-level and above, poster-presentation format, human-disease focus) rather than an industry summit, so relevance to animal-genetics strategy is indirect — flagged mainly for its methods overlap with AI-driven genomic analysis.
+  Source: https://novonordiskfonden.dk/en/events/conference-broad-2027
+
+No further qualifying new events were found this week in Strategy & Governance, Agentic AI, Enterprise AI, or Science AI — this week's searches mostly surfaced conferences already tracked in prior weeks' entries, or events that fell below the quality/verifiability bar (e.g., pay-to-present academic conference mills, or boutique/first-time events without a clearly major organizer or verifiable attendance scale).
+
+### Updates to previously listed events
+
+- **Animal AgTech Innovation Summit Amsterdam 2026 — status unchanged, still disputed.** This week's searches again turned up the same conflicting evidence noted in the 2026-09-10 entry: organizer pages describing the event as "paused following a strategic review," alongside other current-looking organizer pages (programme, "12 Pioneers" article) still describing an active October 2026 edition with 300+ attendees. Direct verification of animalagtecheurope.com remains blocked by this environment's network egress policy, so no resolution is possible from here this week either. Status recommendation unchanged: treat as **not confirmed** pending direct verification with the organizer.
+  Sources: https://animalagtecheurope.com/frequently-asked-questions ; https://animalagtecheurope.com/programme-animal-agtech-europe
+
 ## Week of 2026-09-10
 
 ### Updates to previously listed events
