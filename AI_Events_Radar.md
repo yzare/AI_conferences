@@ -2,6 +2,20 @@
 
 A weekly-curated list of notable upcoming AI conferences, summits, and events, filtered for strategic relevance to AI strategy/digital solutions work in the agriculture and animal genetics industry. Categories tracked: Strategy & Governance, Agentic AI, Enterprise AI, Science AI, Agriculture AI, Genomic/Bio AI, Vendor Conferences, C-Suite & Executive Forums.
 
+## Week of 2026-09-21
+
+### Genomic/Bio AI
+
+- **Festival of Genomics & Biodata — London 2027** — January 27–28, 2027, ExCeL London, UK. [Genomic/Bio AI]
+  Why it matters: The UK's largest genomics and life-sciences event (~8,500 attendees), organized by Front Line Genomics; programming spans clinical genomics, biodata/bioinformatics infrastructure, and computational genomics — directly relevant for tracking genomics-AI infrastructure and tooling trends in an animal-genetics strategy context.
+  Source: https://festivalofgenomics.com/london
+
+- **AGBT General Meeting 2027** — March 1–4, 2027, Hilton Orlando Bonnet Creek, Orlando, Florida, USA. [Genomic/Bio AI]
+  Why it matters: The flagship "Advances in Genome Biology and Technology" meeting — one of the most influential annual gatherings in genome sequencing and genomics technology, with heavy computational-genomics and AI/ML content (basecalling, variant-calling, bioinformatics tooling). Distinct from the already-tracked AGBT-Ag 2027 (April 4–7, 2027, Miami), which is its agriculture-focused spinoff meeting.
+  Source: https://www.agbt.org/home/home/general-meeting/
+
+No qualifying new events were found this week in Strategy & Governance, Agentic AI, Enterprise AI, Science AI, or Agriculture AI — searches surfaced only events already tracked, predatory/low-bar conference-mill listings, or candidates lacking verifiable date/location/organizer details.
+
 ## Week of 2026-09-14
 
 ### Agriculture AI / Genomic-Bio AI
