@@ -2,6 +2,59 @@
 
 A weekly-curated list of notable upcoming AI conferences, summits, and events, filtered for strategic relevance to AI strategy/digital solutions work in the agriculture and animal genetics industry. Categories tracked: Strategy & Governance, Agentic AI, Enterprise AI, Science AI, Agriculture AI, Genomic/Bio AI, Vendor Conferences, C-Suite & Executive Forums.
 
+## Week of 2026-09-28
+
+### Strategy & Governance
+
+- **AI Policy Summit 2026 (7th edition)** — September 29–30, 2026 (hybrid: online + in-person), ETH Zürich main building, Zürich, Switzerland. [Strategy & Governance]
+  Why it matters: Long-running (since 2019) multi-stakeholder AI policy dialogue co-organized by ETH Zurich's Center for Law & Economics and RegHorizon, held as a flagship event of the Zurich AI Festival under the Canton of Zurich; a credible academic/governmental venue for tracking European AI regulation and public-policy debate.
+  Source: https://lawecon.ethz.ch/conferences-workshops/ai-policy-summit.html
+
+- **IAPP Privacy. Security. Risk. + AI Governance Global 2026** — October 6–9, 2026 (training Oct 6–7, main conference Oct 8–9), Seattle Convention Center (Arch Building), Seattle, WA, USA. [Strategy & Governance]
+  Why it matters: Run by the IAPP, the leading global professional body for privacy and AI governance; 200+ speakers and 50+ sessions on AI governance, regulatory enforcement, and responsible innovation. Distinct from the already-tracked IAPP Global Summit 2027 (Washington, D.C.).
+  Source: https://iapp.org/conference/iapp-psr
+
+- **IAPP Europe Congress 2026: Privacy | AI Governance | Cybersecurity Law** — November 16–19, 2026 (training Nov 16–17, main conference Nov 18–19), Square Brussels Convention Centre, Brussels, Belgium. [Strategy & Governance]
+  Why it matters: IAPP's flagship European congress, timed against EU AI Act implementation, with 200+ speakers on AI governance implementation/compliance; co-located this year with the 48th Global Privacy Assembly, drawing an international regulatory audience.
+  Source: https://iapp.org/conference/iapp-europe-congress
+
+### Agentic AI
+
+- **AGENTIC AI Summit 2026 (North America)** — October 5–7, 2026, private winery estate, Loudoun County, Virginia, USA (some organizer pages instead list a single-day October 7 event in Reston, VA — date/venue not fully consistent across the organizer's own pages). [Agentic AI, Enterprise AI]
+  Why it matters: Run by Modev, the established organizer of the long-running VOICE Summit series; billed at 1,500+ enterprise/government attendees across Agentic AI, Physical AI, and Sovereign AI tracks, with confirmed speakers from Cox Communications, Marriott, and the U.S. Department of the Navy. Flagged for the venue/date inconsistency noted above.
+  Source: https://gotoagentic.ai/
+
+- **AI Agent & Copilot Summit NA 2027 (3rd annual)** — March 30 – April 1, 2027, Gaylord Pacific Resort & Convention Center, Chula Vista, CA, USA. [Agentic AI, Enterprise AI]
+  Why it matters: Produced by Dynamic Communities, an established enterprise-software community-conference operator; a vendor-ecosystem (Microsoft Copilot Studio, Azure AI Foundry, Dynamics 365) event convening 750+ business/technology leaders specifically on agentic AI adoption.
+  Source: https://copilot.summitna.com/2027-register/
+
+### Enterprise AI
+
+- **ServiceNow Knowledge 2027** — May 4–6, 2027, The Venetian / Wynn, Las Vegas, NV, USA. [Enterprise AI]
+  Why it matters: ServiceNow's flagship customer/partner conference, marking its 20th anniversary and historically drawing 20,000+ enterprise IT leaders; agentic-AI workflow automation is a central theme.
+  Source: https://www.servicenow.com/events/knowledge.html
+
+- **SAP Sapphire 2027** — May 24–26, 2027, Orlando, FL, USA (plus satellite events: Barcelona June 1–3 and virtual May 25–26). [Enterprise AI]
+  Why it matters: SAP's flagship global customer/partner event (co-located with the ASUG Annual Conference), drawing 20,000+ business/IT leaders; centers on SAP Business AI (Joule) adoption across ERP and supply-chain workflows.
+  Source: https://conference.as/conference/sap-sapphire-2027
+
+### Genomic/Bio AI
+
+- **Bio-IT World Conference & Expo 2027 (26th annual)** — May 18–20, 2027, Omni Boston Hotel at the Seaport, Boston, MA, USA. [Genomic/Bio AI]
+  Why it matters: Organized by Cambridge Healthtech Institute; a premier global event on IT/AI/analytics in life sciences and precision medicine, drawing 2,900+ biopharma, clinical, and informatics leaders.
+  Source: https://www.bio-itworldexpo.com/
+
+- **ASHG 2026 Annual Meeting (American Society of Human Genetics)** — October 20–24, 2026, Palais des Congrès de Montréal, Montréal, Canada. [Genomic/Bio AI]
+  Why it matters: The world's largest human genetics and genomics meeting, with growing AI/ML-in-genomics content (variant-calling and genomic-prediction methods that overlap with livestock/animal genomics). Flagged as human-genetics-focused rather than agriculture/animal-genetics-specific — included for its scale and cross-methodological relevance, not core fit.
+  Source: https://www.ashg.org/deadlines_and_events/ashg-2026-annual-meeting/
+
+No qualifying new events were found this week in Science AI or Agriculture AI — searches surfaced only regional/single-day events below the flagship bar (e.g., a North Dakota one-day ag-AI summit, a Kansas State extension event) or listings that could not be verified against a credible primary-source organizer.
+
+### Updates to previously listed events
+
+- **Animal AgTech Innovation Summit Amsterdam 2026 — status unchanged, still paused per organizer FAQ.** This week's check again found the same Rethink Events FAQ language stating the Amsterdam edition "has been paused following a strategic review" — no new information beyond what was already noted in the 2026-09-21 and earlier entries. No status change to log.
+  Source: https://animalagtecheurope.com/frequently-asked-questions
+
 ## Week of 2026-09-21
 
 ### Genomic/Bio AI
