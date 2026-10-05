@@ -2,6 +2,75 @@
 
 A weekly-curated list of notable upcoming AI conferences, summits, and events, filtered for strategic relevance to AI strategy/digital solutions work in the agriculture and animal genetics industry. Categories tracked: Strategy & Governance, Agentic AI, Enterprise AI, Science AI, Agriculture AI, Genomic/Bio AI, Vendor Conferences, C-Suite & Executive Forums.
 
+## Week of 2026-10-05
+
+### Updates to previously listed events
+
+- **Animal AgTech Innovation Summit Amsterdam 2026 — new evidence points to ACTIVE/proceeding, dates October 13–14, 2026.** WebFetch to the organizer's domain was blocked by this environment's network egress policy again this week, so this relies on search-indexed content rather than a direct page fetch. The live programme page names confirmed 2026 speakers (William Herring of Cobb-Vantress, Aaron Schacht of BioMedit, Justin Sherrard, Lee Leachman, and a breakfast briefing with former EU Commissioner Phil Hogan), a current "12 Pioneers" preview article, and an EFFAB partner press release promoting a 2026 discount code — with no cancellation notice found anywhere despite the event now being just over a week away. The recurring "paused following a strategic review" language that keeps surfacing in search results appears to be stale/legacy boilerplate from an earlier pause that preceded a confirmed 2025 relaunch, and the conflicting "October 16–17" date appears to be a holdover from the actual 2025 edition rather than 2026. Current-year consensus across multiple independent sources (agri-pulse, foodagribusiness.world, the official partnership brochure) is October 13–14, 2026, Leonardo Royal Hotel Amsterdam. Given the event is now imminent, recommend a final direct check with the organizer before relying on this for travel/attendance planning.
+  Sources: https://animalagtecheurope.com/programme-animal-agtech-europe ; https://www.effab.info/wp-content/uploads/2025/09/Animal-AgTech-Amsterdam-Launch-Press-Release-EFFAB.pdf ; https://go.rethinkevents.com/partnership-brochure-amsterdam-2026
+
+### Strategy & Governance
+
+- **AIES 2026 (9th AAAI/ACM Conference on AI, Ethics, and Society)** — October 12–14, 2026, Malmö (Malmö Live), Sweden. [Strategy & Governance]
+  Why it matters: Flagship joint AAAI/ACM academic-industry conference, now in its 9th year, and one of the leading interdisciplinary research venues on AI governance, fairness, and societal-impact policy — a strong leading indicator of where AI ethics/regulatory thinking is heading.
+  Source: https://aaai.org/conference/aies/
+
+### Agentic AI
+
+- **NeurIPS 2026 (40th Conference on Neural Information Processing Systems)** — December 6–12, 2026 (main conference Dec 8–10, workshops Dec 11–12), Sydney, Australia, with official satellite venues in Paris, France and Atlanta, USA. [Agentic AI]
+  Why it matters: The world's flagship machine-learning research conference; the 2026 edition includes dedicated agentic-AI workshops ("Agents in the Wild: Safety, Security, and Beyond" and "Who Verifies the Agents? Toward Reliable Agent Development"), making it a top venue for frontier agentic-AI research with direct bearing on enterprise agent adoption.
+  Source: https://neurips.cc/Conferences/2026/Dates
+
+### Enterprise AI
+
+- **NVIDIA GTC Berlin 2026** — October 20–22, 2026, Berlin (Tempodrom), Germany. [Enterprise AI, Agentic AI]
+  Why it matters: NVIDIA's flagship European AI conference, headlined by a live keynote from CEO Jensen Huang; covers enterprise AI deployment, "AI factories," agentic systems, and physical AI — a leading indicator of enterprise AI infrastructure direction in Europe.
+  Source: https://www.nvidia.com/en-eu/gtc/
+
+- **Future: Enterprise & AI 2026 (The Conference Board)** — November 17–18, 2026 (Nov 17 members-only, Nov 18 open session), Brussels, Belgium. [Enterprise AI, Strategy & Governance]
+  Why it matters: Closed-door executive summit run by The Conference Board, a major global business-research membership organization, convening CEOs, board members, and CXOs on scaling AI governance, operations, and workforce strategy.
+  Source: https://www.conference-board.org/events/future-enterprise-and-ai
+
+- **Gartner Data & Analytics Summit 2027 (London)** — May 11–12, 2027, ExCeL London, UK. [Enterprise AI, Strategy & Governance]
+  Why it matters: Major Gartner analyst-firm summit (3,700+ expected attendees, 52%+ director-level or above) with a heavily expanded AI agenda spanning AI strategy, agentic AI, generative AI, and AI governance/engineering tracks.
+  Source: https://www.gartner.com/en/conferences/emea/data-analytics-uk
+
+### Science AI
+
+- **The UChicago and Caltech AI+Science Conference 2026** — October 19–21, 2026, Chicago, Illinois, USA (David Rubenstein Forum, University of Chicago). [Science AI]
+  Why it matters: Flagship joint conference between two top-tier research universities, sponsored by the Margot and Tom Pritzker Foundation, convening leading researchers across core AI and domain sciences to shape future research and industry investment.
+  Source: https://datascience.uchicago.edu/research/ai-science/partnerships/pritzker-aiscience-joint-initiative-with-caltech/the-uchicago-and-caltech-aiscience-conference-2026/
+
+- **AI4X 2027** — tutorials June 12–13, main conference June 14–17, 2027, Bremen (Constructor University), Germany. [Science AI]
+  Why it matters: Co-organized by Constructor University and the National University of Singapore's Institute for Functional Intelligent Materials; a growing "AI for science and deep-tech" conference with confirmed Nobel laureate participation (Prof. Sir Konstantin Novoselov). Newer and smaller-scale than other entries here — flagged with that caveat.
+  Source: https://constructor.university/lp/ai4x-conference-2027
+
+### Agriculture AI
+
+- **AI for Agriculture Conference 2027 (University of Kentucky)** — March 30–April 1, 2027, Lexington, Kentucky, USA. [Agriculture AI]
+  Why it matters: University-hosted (Martin-Gatton College of Agriculture) national conference on AI in agricultural production; the 2026 edition drew 460+ academics, researchers, extension staff, and industry/government leaders.
+  Source: https://aiagconference.uky.edu/
+
+### Genomic/Bio AI
+
+- **ASM BIG — Bioinformatics, Genomics and Big Data Conference (inaugural)** — October 11–14, 2026, Washington, D.C. (Hyatt Regency Capitol Hill), USA. [Genomic/Bio AI]
+  Why it matters: Newly launched by the American Society for Microbiology, a major, long-established scientific society, evolving from ASM's prior NGS/bioinformatics-pipelines meeting into a broader conference spanning AI, multiomics, and microbial systems biology.
+  Source: https://asm.org/events/asm-big/home
+
+- **Pacific Symposium on Biocomputing (PSB) 2027 (32nd edition)** — January 3–7, 2027, Fairmont Orchid, Big Island, Hawaii, USA. [Genomic/Bio AI]
+  Why it matters: Highly selective (capped at ~300 attendees), internationally respected Stanford/ISCB-affiliated computational-biology conference and a long-standing top venue for computational methods in genomics.
+  Source: https://psb.stanford.edu/
+
+- **RECOMB 2027 (31st Annual International Conference on Research in Computational Molecular Biology)** — May 17–20, 2027 (satellite meetings May 15–16), Toronto, Canada. [Genomic/Bio AI]
+  Why it matters: One of the top peer-reviewed venues in computational biology since 1997, and a consistent bellwether for new computational-genomics methods.
+  Source: https://recomb.org/recomb2027/
+
+- **VIB Conference: AI and Computational Biology** — December 9–10, 2026, Leuven (KU Leuven), Belgium. [Genomic/Bio AI]
+  Why it matters: Organized by VIB (Vlaams Instituut voor Biotechnologie), a major European life-sciences research institute; successor to VIB's long-running "Applied Bioinformatics in Life Sciences" series, covering genome-to-function and machine learning in biology.
+  Source: https://www.vibconferences.be/events/ai-and-computational-biology
+
+Several candidates were checked and excluded for falling below the quality bar: "World Summit AI 2026" (Amsterdam, Oct 7-8) is already tracked under the 2026-08-10 entry, not new; a boutique-organizer "Agentic AI Enterprise Summit" (NYC) and "Agri AI Summit" (Anaheim, plus its Frankfurt counterpart) had decent speaker lineups but commercial boutique organizers rather than a major association/university/tech/government body; the "Augmented Enterprise Summit" (Atlanta) is primarily an AR/XR conference with AI as a secondary theme; the 17th International Conference on Precision Agriculture (Porto Alegre, July 2026) had already occurred as of this week's run; and several conference-aggregator-listed bioinformatics meetings (e.g., ICBCB/ICBCSB-style listings) could not be verified against a credible primary-source organizer.
+
 ## Week of 2026-09-28
 
 ### Strategy & Governance
