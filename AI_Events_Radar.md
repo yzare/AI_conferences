@@ -2,6 +2,38 @@
 
 A weekly-curated list of notable upcoming AI conferences, summits, and events, filtered for strategic relevance to AI strategy/digital solutions work in the agriculture and animal genetics industry. Categories tracked: Strategy & Governance, Agentic AI, Enterprise AI, Science AI, Agriculture AI, Genomic/Bio AI, Vendor Conferences, C-Suite & Executive Forums.
 
+## Week of 2026-10-12
+
+### Agentic AI
+
+- **IEEE ICA 2026 (2026 IEEE International Conference on Agentic AI, inaugural)** — December 14–17, 2026, Kumamoto (Kumamoto-Jo Hall), Japan. [Agentic AI]
+  Why it matters: The first IEEE-sponsored conference dedicated specifically to agentic AI research, chaired by faculty from Kyoto University, Nagoya Institute of Technology, Kobe University, and Japan's AIST; a credible new peer-reviewed academic venue for autonomous-agent methods (planning, reasoning, multi-agent coordination) as the field matures beyond workshop tracks at larger conferences.
+  Source: https://attend.ieee.org/ica-2026/
+
+- **AI Agent Conference 2027** — May 17–18, 2027, New York Hilton Midtown, New York, USA. [Agentic AI, Enterprise AI]
+  Why it matters: Run by Firsthand VC in partnership with NYSE, this enterprise-agent conference grew from roughly 1,000 attendees in its 2026 edition to a projected 4,000+ for 2027, tracking fast-rising enterprise interest in deploying AI agents into production. Flagged: the 2027 dates and attendance figures are confirmed only via a third-party events aggregator, not yet published on the organizer's own site.
+  Source: https://www.beri.net/events/ai-agent-conference-2027
+
+### Enterprise AI
+
+- **The AI Summit New York 2027** — December 8–9, 2027, Javits Convention Center, New York, USA. [Enterprise AI]
+  Why it matters: Next annual edition of the already-tracked flagship "AI Summit" series (Informa Connect), historically drawing 7,500+ attendees and 350+ speakers on commercial/enterprise AI deployment. Flagged: 2027 dates are consistent across several independent event aggregators but not yet confirmed on the organizer's own theaisummit.com page.
+  Source: https://www.fintechfutures.com/events/the-ai-summit-new-york
+
+### Science AI
+
+- **AI for Science Summit 2026** — November 24, 2026, Churchill College, Cambridge, UK. [Science AI]
+  Why it matters: Annual summit of the University of Cambridge's Accelerate Programme for Scientific Discovery, with confirmed talks from leading ML researchers Max Welling and Neil Lawrence; a strong academic venue for tracking AI-for-science methods and tooling trends.
+  Source: https://science.ai.cam.ac.uk/events/ai-for-science-summit-2026
+
+### Genomic/Bio AI
+
+- **Genome Informatics 2026 (26th meeting)** — December 2–4, 2026, Wellcome Genome Campus, Hinxton, UK (hybrid). [Genomic/Bio AI]
+  Why it matters: Long-running (dating to the early 1990s), highly respected genome-informatics conference organized by Wellcome Connecting Science, alternating with Cold Spring Harbor Laboratory; this edition's themes (pangenomes, genome assembly, single-cell/spatial omics) explicitly welcome machine-learning and AI-driven methods relevant to genomics/breeding tooling.
+  Source: https://coursesandconferences.wellcomeconnectingscience.org/event/genome-informatics-20261202
+
+Several candidates were checked and excluded for falling below the quality bar or being duplicates of already-tracked events: the Geneva AI Summit 2027, AI4Science Week/AI4Sci 2026 (Mainz), ECCB 2026, and the 4th U.S. Precision Livestock Farming Conference are all already logged in earlier weekly entries; "Enterprise AI Summit" editions in Berlin/Frankfurt (Sept 2026) have conflicting venue details across sources and a boutique commercial organizer rather than a major association; "AI Summit Singapore 2027" and "AI Summit London 2027" could not be confirmed beyond listing-site mentions showing stale 2026 content; and this week's renewed check on the Animal AgTech Innovation Summit Amsterdam (Oct 13–14, 2026) turned up no new corroborating or contradicting information beyond what was already logged in the 2026-10-05 entry, so no update was made.
+
 ## Week of 2026-10-05
 
 ### Updates to previously listed events
