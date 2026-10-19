@@ -2,6 +2,22 @@
 
 A weekly-curated list of notable upcoming AI conferences, summits, and events, filtered for strategic relevance to AI strategy/digital solutions work in the agriculture and animal genetics industry. Categories tracked: Strategy & Governance, Agentic AI, Enterprise AI, Science AI, Agriculture AI, Genomic/Bio AI, Vendor Conferences, C-Suite & Executive Forums.
 
+## Week of 2026-10-19
+
+### Enterprise AI
+
+- **Databricks Data + AI Summit 2027** — June 21–24, 2027, Moscone Center, San Francisco, CA, USA. [Enterprise AI]
+  Why it matters: Databricks' flagship annual conference on data engineering, data platforms, and enterprise AI, one of the largest events in the category (the 2026 edition's keynote lineup was confirmed directly via Databricks' own newsroom, with agentic AI and enterprise AI-platform adoption as central themes); Databricks has committed to hosting it in San Francisco through at least 2027. Flagged: the specific 2027 dates are consistent across multiple independent event aggregators but not yet posted on Databricks' own summit site.
+  Source: https://www.beri.net/events/data-ai-summit-2027
+
+### Genomic/Bio AI
+
+- **ISCB UK 2027: Biology in the Age of AI** — April 20–22, 2027, University of Strathclyde, Glasgow, UK. [Genomic/Bio AI]
+  Why it matters: Organized directly by the International Society for Computational Biology (ISCB), the leading global professional society for computational biology and bioinformatics; this second ISCB UK regional meeting is explicitly themed on AI's expanding role in biological research, with sessions spanning computational methods and life-science applications relevant to genomics/breeding tooling.
+  Source: https://www.iscb.org/uk2027
+
+Several additional candidates were checked this week and excluded for falling below the quality bar, being duplicates, or lacking confirmed details: the "AI Regulations & Technology Summit" (Barcelona, Apr 2027) and the "2nd World AI Governance & Regulation Summit" (Berlin, Nov 2026) are both run by boutique commercial organizers (Conferenzia World and Luxatia International respectively) rather than a major association, government, or standards body; the "International Conference on Agentic, Generative, and Cognitive AI Systems" (Paris, Oct 2026) could not be verified against a credible, well-established organizer; ICAR's 2027 annual conference is confirmed only at the country level (France) with no city, date, or program details yet available to verify; the EAAP AI4Animal Science (AI4AS) conference's 2nd edition (Ghent, Belgium) already took place June 29–30, 2026, with no 2027 edition announced yet; and the Geneva AI Summit 2027, IAPP Global Summit 2027, AI Agent Conference 2027, HumanX, Ai4, RECOMB 2027, ISMB/ECCB 2027, AI4X 2027, AI for Agriculture Conference (University of Kentucky), AIC Conference, and World Agri-Tech Innovation Summit events surfaced again this week but are all already logged in earlier weekly entries.
+
 ## Week of 2026-10-12
 
 ### Agentic AI
