@@ -2,6 +2,36 @@
 
 A weekly-curated list of notable upcoming AI conferences, summits, and events, filtered for strategic relevance to AI strategy/digital solutions work in the agriculture and animal genetics industry. Categories tracked: Strategy & Governance, Agentic AI, Enterprise AI, Science AI, Agriculture AI, Genomic/Bio AI, Vendor Conferences, C-Suite & Executive Forums.
 
+## Week of 2026-10-26
+
+### Agentic AI
+
+- **AAMAS 2027 (26th International Conference on Autonomous Agents and Multiagent Systems)** — May 3–7, 2027, Hanoi (JW Marriott), Vietnam. [Agentic AI]
+  Why it matters: The flagship academic conference for autonomous-agent and multi-agent-systems research, run by IFAAMAS (the non-profit federation behind the series) and organized this edition by the University of Warwick's Department of Computer Science; the 2027 call for papers explicitly expands scope to generative and agentic AI, with a new "Findings of AAMAS" track reflecting the field's rapid growth.
+  Source: https://warwick.ac.uk/fac/sci/dcs/aamas2027/
+
+- **Nature Conference: Agentic AI for Scientific Discovery** — January 18–20, 2027, Hefei, China. [Agentic AI, Science AI]
+  Why it matters: Jointly organized by Nature, Nature Machine Intelligence, Nature Chemical Engineering, Nature Reviews Computing, and the University of Science and Technology of China's Center for Scientific Intelligence Innovation; a credible publisher-backed venue tracking the intersection of autonomous AI agents and scientific research, with tracks on autonomous laboratories and agent evaluation/safety.
+  Source: https://natureconferences.streamgo.live/agentic-ai-for-scientific-discovery/lobby
+
+### Enterprise AI
+
+- **RAISE Summit Paris 2027** — July 6–8, 2027, Palais des Congrès de Paris, France. [Enterprise AI, Agentic AI]
+  Why it matters: One of Europe's largest enterprise-AI gatherings — the 2026 edition (Carrousel du Louvre) drew roughly 9,000 attendees, with prior editions reporting 800+ CEOs from Fortune 500 companies in attendance; the 2027 edition expands to three days at a larger venue following a reported acquisition by events group Hyve Group. Flagged: the Hyve Group acquisition and other 2027 organizer details are sourced from third-party listings rather than an official press release.
+  Source: https://www.raisesummit.com/rebooking-2027
+
+### Genomic/Bio AI
+
+- **Biology of Genomes 2027 (40th annual meeting)** — May 11–15, 2027, Cold Spring Harbor Laboratory, New York, USA (hybrid). [Genomic/Bio AI]
+  Why it matters: Cold Spring Harbor Laboratory's long-running, highly regarded flagship genomics meeting (the 2026/39th edition covered population, cancer, and computational genomics); a top venue for emerging computational/AI methods in genomics relevant to breeding and genomics-AI tooling. Flagged: the 2027 dates currently appear only on a third-party aggregator (Nanowerk), not yet posted on CSHL's own meetings site.
+  Source: https://www.nanowerk.com/eventpage.php?id=6187
+
+- **EuroBioC2027 (European Bioconductor Conference)** — September 8–10, 2027 (pre-conference events Sept 6–7), Basel, Switzerland. [Genomic/Bio AI]
+  Why it matters: Official annual conference of the European Bioconductor community — the open-source project underpinning a large share of genomics/bioinformatics data analysis worldwide; a smaller, specialist gathering (~150 expected attendees) but directly relevant to computational-genomics tooling trends.
+  Source: https://eurobioc2027.bioconductor.org/
+
+Several additional candidates were checked this week and excluded for falling below the quality bar, lacking verifiable confirmation, or being duplicates: "AI Summit London 2027" (Tobacco Dock) again surfaced only on third-party aggregators with no official 2027 page live, consistent with last week's exclusion; "AI Summit North America San Diego 2027" lists the same venue/dates as the already-tracked "AI Agent & Copilot Summit NA 2027," suggesting aggregator confusion rather than a distinct event; a rumored Geneva-hosted "International AI Safety Summit" successor to the India AI Impact Summit appears to be the same event as the already-tracked "Geneva AI Summit 2027" (same city, dates, and Swiss-government organizer), so no separate entry was added; ICDAAI 2027 (Athens) is a first-edition academic conference without an established track record; and the AI Regulations & Technology Summit (Barcelona), 2nd World AI Governance & Regulation Summit (Berlin), AgenticCon, AI Con USA Seattle, NEXAI 2027, and a University of Illinois "CDA" digital-ag conference are all boutique/commercial or unverified-prestige events that don't clear the bar.
+
 ## Week of 2026-10-19
 
 ### Enterprise AI
