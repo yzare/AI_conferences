@@ -2,6 +2,22 @@
 
 A weekly-curated list of notable upcoming AI conferences, summits, and events, filtered for strategic relevance to AI strategy/digital solutions work in the agriculture and animal genetics industry. Categories tracked: Strategy & Governance, Agentic AI, Enterprise AI, Science AI, Agriculture AI, Genomic/Bio AI, Vendor Conferences, C-Suite & Executive Forums.
 
+## Week of 2026-11-02
+
+### Agriculture AI
+
+- **EuroTier 2026** — November 10–13, 2026, Hannover (Hannover fairground), Germany. [Agriculture AI]
+  Why it matters: Organized by DLG (the same organizer as the already-tracked AGRITECHNICA), EuroTier is the world's leading international trade fair for professional livestock/animal farming, expecting 100,000+ visitors from 150+ countries (per DLG/organizer and multiple independent trade-show listings); this edition is explicitly themed "Intelligence in Animal Farming," spotlighting AI-driven solutions for animal welfare, efficiency, and herd management — directly relevant to animal genetics and livestock AI strategy.
+  Source: https://www.eurotier.com/en/
+
+### Genomic/Bio AI
+
+- **ISAG 2027 (41st Conference of the International Society for Animal Genetics)** — June 27–July 2, 2027, Perugia, Italy. [Genomic/Bio AI, Agriculture AI]
+  Why it matters: Official flagship conference of ISAG, the leading global professional society dedicated to animal genetics research; directly relevant to AI-driven genomic selection and breeding strategy in livestock and companion-animal genetics. Confirmed on the society's own site.
+  Source: https://www.isag.us/2027
+
+Several additional candidates were checked this week and excluded for falling below the quality bar or lacking verifiable confirmation: "World Summit AI Americas 2027" (Montréal, reported April 7–8) and "AGNTCon + MCPCon Europe 2027" (London, reported September 15–16) both surfaced only on third-party aggregators (Beri.net, Tradefest) with no corroborating page yet on the organizers' own sites (worldsummit.ai / linuxfoundation.org), so neither could be verified this week; "GENAIX 2027" (Singapore, April 15–16) is backed only by lifestyle/listing sites (Honeycombers, AI Expert Magazine) rather than a credible primary organizer; an "AI & Humanity Summit" (listed variously for Dubai and Tokyo) appeared only on a single low-authority domain with no identifiable organizer; "SciSustain 2027" (Kalinga University, India) and "Genes 2027" (Zürich) are smaller pay-to-present-style academic-mill conferences without an established track record; and the "Smart Harvesting Summit" and an "AgTech Summit" (Grand Rapids) were sourced only from aggregator listings without an official event page to confirm date/venue.
+
 ## Week of 2026-10-26
 
 ### Agentic AI
