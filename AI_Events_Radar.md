@@ -2,6 +2,20 @@
 
 A weekly-curated list of notable upcoming AI conferences, summits, and events, filtered for strategic relevance to AI strategy/digital solutions work in the agriculture and animal genetics industry. Categories tracked: Strategy & Governance, Agentic AI, Enterprise AI, Science AI, Agriculture AI, Genomic/Bio AI, Vendor Conferences, C-Suite & Executive Forums.
 
+## Week of 2026-11-09
+
+### Agriculture AI / Genomic-Bio AI
+
+- **AI4AS 2027 (3rd EAAP Conference on Artificial Intelligence for Animal Science)** — June 7–9, 2027, SLU Uppsala Campus (Ultuna), Sweden. [Agriculture AI, Genomic/Bio AI]
+  Why it matters: Third edition of a fast-growing conference series organized by EAAP (the European Federation of Animal Science, also co-organizer of the already-tracked ECPLF) with the Swedish University of Agricultural Sciences; now formalized as a standing EAAP working group, it is explicitly and narrowly focused on applying AI to livestock/animal science — a near-ideal match for animal-genetics AI strategy tracking.
+  Source: https://ai4as.eaap.org/
+
+- **Herd '27** — March 22–23, 2027, Geelong, Victoria, Australia. [Agriculture AI, Genomic/Bio AI]
+  Why it matters: Biennial Australian dairy-herd-improvement conference jointly run by DataGene, Dairy Australia, Holstein Australia, and the National Herd Improvement Association; the 2027 program explicitly covers genomic evaluation, breeding, and AI-on-farm tools (including a "Digital Dairy AI" platform demo). Modest regional scale, but directly relevant niche fit for animal-genetics AI strategy. Flagged: sourced mainly via a single news aggregator (dairynews.today); an official organizer registration page was not located this week.
+  Source: https://dairynews.today/news/herd-27-to-discuss-the-use-of-data-and-ai-in-dairy-herd-management.html
+
+Several additional candidates were checked this week and excluded for falling below the quality bar or lacking verifiable confirmation: the 27th AAABG Conference (Geelong, March 23–25, 2027) is a credible, long-running Australasian animal-breeding-genetics flagship conference, but no source confirmed AI-specific programming beyond a generic "innovation/technology" (GAIN) theme, so it was not added; "SciFM 2027" (successor to UChicago/Argonne's SciFM 26 foundation-models-for-science conference) was confirmed to exist but has no announced date or venue yet; and BizClik's newly launched "SuperIntelligence Summit" / AI LIVE London 2027 (May 10–11, 2027, QEII Centre) is a first-edition commercial media-company event without an established track record, so it was not added pending a second-year conviction check. No qualifying new events were found this week in Strategy & Governance, Agentic AI, or Enterprise AI — searches this week turned up only events already tracked in prior entries (e.g., confirmed official dates for the already-tracked Geneva AI Summit 2027, June 21–22, 2027, which match what was previously logged with no change needed).
+
 ## Week of 2026-11-02
 
 ### Agriculture AI
